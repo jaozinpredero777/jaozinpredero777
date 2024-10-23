@@ -1,16 +1,13 @@
-## Hi there 👋
+## Bem vindo ao meu perfil
 
-<!--
-**jaozinpredero777/jaozinpredero777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é **João Miguel**
 
-Here are some ideas to get you started:
+* Sou estudante, atualmente estou cursando o primeiro ano do ensino médio
+* Estou estudando um curso com base na linguagem javascript, na biblioteca p5js, fornecido pela plataforma AluraStart
+* Utilizo este espaço para organização, e  compartilhamento dos projetos desenvolvidos em sala de aula com o apoio do professor
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Meu Contato :📬
+
+00001142362103sp@al.educacao.sp.gov.br
+
+<1..
